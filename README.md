@@ -10,4 +10,6 @@ https://drive.google.com/drive/u/0/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?aut
 'inf' is infected </br>
 'nor' is normal  </br>
 
-###### Other Results can be seen in the Report.pdf
+##### Other Results can be seen in the Report.pdf
+
+##### Tuned Weights are placed in weights folder for FC-Layer and full model for VGG16 and ResNet18 networks
