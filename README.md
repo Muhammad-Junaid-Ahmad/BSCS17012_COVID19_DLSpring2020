@@ -4,3 +4,8 @@
 # Downlaod the data from the link:
 https://drive.google.com/drive/u/0/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR?authuser=0
 
+## VGG16 Tuned Full Loss Curves and Confusion Matrices Results
+![](figure/VGG16_FullTuned_results.PNG?raw=true "VGG16 Fully Tuned")
+#### In the image above:
+'inf' -> infected </br>
+'nor' -> normal  </br>
